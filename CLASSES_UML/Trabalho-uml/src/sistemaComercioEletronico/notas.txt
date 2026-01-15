@@ -1,0 +1,3 @@
+Composição (Pedido → ItemPedido)
+Herança (Pagamento)
+Multiplicidade representada com List<>
