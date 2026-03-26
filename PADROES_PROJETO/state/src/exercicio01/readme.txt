@@ -2,9 +2,7 @@
 Modelar estados do elevador, (subindo, descendo e parado)
 Para gerenciar comandos e portas.
 
-
-
-Exemplo de estrutura de pastas (Packages)
+# Estrutura
 src/
 └── br.com.faculdade.pedido/
     ├── Main.java              (Onde você testa)
