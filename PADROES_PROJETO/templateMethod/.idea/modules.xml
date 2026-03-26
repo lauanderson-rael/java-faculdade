@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/padroes.iml" filepath="$PROJECT_DIR$/padroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templateMethod.iml" filepath="$PROJECT_DIR$/templateMethod.iml" />
     </modules>
   </component>
 </project>
